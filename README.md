@@ -7,17 +7,15 @@
   - [x] Test-Driven Development(Jest, RTL, Mocha) 
   - [x] CI/CD(GitHub Actions, TravicsCi, CircleCi)
   - [x] Version Control(GIT)
-- Currently Learning:
-  🌱 Spring Boot 
+- Currently Learning:<br>
+  🌱 Spring Boot <br/>
   🌱 Jenkins
 
 ### Find Me On:
 
-<p align="left>
-<a href="https://www.linkedin.com/in/kadhuwa-musinda-a39346123" target="blank"><i class="fa fa-linkedin fa-2x " style="color:"></i></a> &nbsp; &nbsp; 
-<a href="https://dribbble.com/jkadhuwa" target="blank"><i class="fa fa-dribbble fa-2x " style="color:"></i></a>&nbsp; &nbsp; 
-<a href="https://twitter.com/jkadhuwa" target="blank"><i class="fa fa-twitter fa-2x " style="color:"></i></a>
-</p>
+
+<a href="https://www.linkedin.com/in/kadhuwa-musinda-a39346123" target="blank"><i class="fa fa-linkedin fa-2x " style="color:"></i></a> &nbsp; &nbsp; <a href="https://dribbble.com/jkadhuwa" target="blank"><i class="fa fa-dribbble fa-2x " style="color:"></i></a>&nbsp; &nbsp; <a href="https://twitter.com/jkadhuwa" target="blank"><i class="fa fa-twitter fa-2x " style="color:"></i></a>
+
 
 ---
 
