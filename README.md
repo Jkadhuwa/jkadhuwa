@@ -2,7 +2,7 @@
 
 ### I'm Musinda Kadhuwa
 
-- I'm a software engineer/mentor who is passionate about creating creative projects and working on open source projects.
+- I'm a software engineer/mentor who is passionate about developing creative projects and working on open source projects.
 - Have vast working experience in:
   - [x] Javascript(Node/Express, Typescipt, ReactJs, NextJs NestJS, Angular)
   - [x] Test-Driven Development(Jest, RTL, Mocha)
