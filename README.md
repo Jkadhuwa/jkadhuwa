@@ -1,4 +1,5 @@
-### Hi there, I'm Musinda Kadhuwa 👋
+### Hi there, 👋
+### I'm Musinda Kadhuwa
 
 - I'm a software engineer/mentor who is passionate about creating creative projects and working on open source projects.
 - Have vast working experience in:
@@ -7,8 +8,8 @@
   - [x] CI/CD(GitHub Actions, TravicsCi, CircleCi)
   - [x] Version Control(GIT)
 - Currently Learning:
-  - 🌱 Spring Boot 
-  - 🌱 Jenkins
+  🌱 Spring Boot 
+  🌱 Jenkins
 
 ### Find Me On:
 
@@ -17,6 +18,7 @@
 <a href="https://dribbble.com/jkadhuwa" target="blank"><i class="fa fa-dribbble fa-2x " style="color:"></i></a>&nbsp; &nbsp; 
 <a href="https://twitter.com/jkadhuwa" target="blank"><i class="fa fa-twitter fa-2x " style="color:"></i></a>
 </p>
+
 ---
 
 ### GitHub Stats
